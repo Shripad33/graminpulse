@@ -3,6 +3,7 @@
 **Confidence-Aware Cash Flow Forecasting & Action Recommendation for Rural Micro Enterprises**
 
 Built for the NABARD Hackathon — Global Fintech Fest 2026
+
 Theme: *AI for Rural Finance*
 Problem Statement: *AI-Driven Cash Flow Prediction & Risk Flagging System for Rural Micro Enterprises*
 
@@ -107,10 +108,8 @@ python notebooks/train_forecast_model.py
 
 ## Team
 
-- [Member 1] — Frontend
-- [Member 2] — Backend
-- [Member 3] — AI/ML
-- [Member 4] — Product / Presenter
+- Shripad Dhongadi — Frontend & Product Manager
+- Karan N B — Backend & AI/ML
 
 ## Roadmap / Future Scope
 
@@ -118,7 +117,3 @@ python notebooks/train_forecast_model.py
 - Peer-cluster benchmarking — compare an enterprise against similar regional peers, not just its own history
 - Vernacular language + voice interface for field-officer usability
 - Direct integration with NABARD's existing loan management systems
-
-## License
-
-TBD — add a license before making this public if required by your hackathon's rules.
